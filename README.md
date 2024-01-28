@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramod Dhungana</h1>
-<h3 align="center">I am a passionate developer with expertise in Python, Java, Kotlin, HTML, CSS, and JavaScript. Born and raised in Nepal, I am a truly enthusiastic person. I have worked on projects individually and collaboratively with other developers..</h3>
+<h3 align="center">Hello, I'm Pramod Dhungana, a passionate developer from Nepal. I am a self-taught full-stack web developer and a freelance software engineer. My zeal for software development lies in conceptualizing ideas and bringing them to life with elegant interfaces. I am meticulous about the experience, architecture, and code quality in everything I create.
+
+Additionally, I am an open-source enthusiast and contributor. I've gained valuable insights from the open-source community, and I appreciate the collaborative and knowledge-sharing aspects of the open-source world...</h3>
 
 - 🔭 I’m currently working on **Weather Prediction Project**
 
