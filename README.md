@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Dhungana</h1>
-<h3 align="center">I am a Passionate Developer, with expertise in Python, Java, Kotlin, HTML, CSS, and JavaScript. Born and raised in Nepal, I am a truly enthusiastic person. I have worked on projects individually and collaboratively with other developers.</h3>
+<h3 align="center">I am a passionate developer with expertise in Python, Java, Kotlin, HTML, CSS, and JavaScript. Born and raised in Nepal, I am a truly enthusiastic person. I have worked on projects individually and collaboratively with other developers..</h3>
 
 - 🔭 I’m currently working on **Weather Prediction Project**
 
