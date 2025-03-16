@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pramod Dhungana</h1>
 <h3 align="center">Hey, I'm Pramod Dhungana! 👋
 
-# 👋 Hey, I'm Pramod Dhungana!  
+
 
 I'm a **self-taught full-stack developer** and **software engineer** passionate about building scalable, user-friendly applications. I enjoy working at the intersection of **AI, web development, and open-source**—transforming ideas into reality with clean code and great design.
 
