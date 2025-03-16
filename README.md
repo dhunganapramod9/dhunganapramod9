@@ -6,14 +6,14 @@
 I'm a **self-taught full-stack developer** and **software engineer** passionate about building scalable, user-friendly applications. I enjoy working at the intersection of **AI, web development, and open-source**—transforming ideas into reality with clean code and great design.
 
 ## 🚀 What I'm working on  
-- 🧠 Building an **NLP model** to enhance AI-driven text analysis.  
-- 🔍 Developing **CompliAI**, an AI-powered code auditor for **HIPAA, GDPR, and SOC 2 compliance**.  
-- 🌱 Exploring **LangChain, Llama 3.2, and vector databases** for AI-driven applications.  
+-  Building an **NLP model** to enhance AI-driven text analysis.  
+-  Developing **CompliAI**, an AI-powered code auditor for **HIPAA, GDPR, and SOC 2 compliance**.  
+-  Exploring **LangChain, Llama 3.2, and vector databases** for AI-driven applications.  
 
 ## 💡 What I'm Learning & Building  
-- 📌 Deep diving into **MERN stack** & **Node.js** for scalable web apps.  
-- ⚡ Experimenting with **Vue.js** for front-end innovation.  
-- 🏗️ Working on **full-stack AI-integrated applications**.  
+-  Deep diving into **MERN stack** & **Node.js** for scalable web apps.  
+-  Experimenting with **Vue.js** for front-end innovation.  
+- 🏗 Working on **full-stack AI-integrated applications**.  
 
 ## 🔧 Tech Stack  
 - **Frontend:** React, Next.js, Vue.js  
