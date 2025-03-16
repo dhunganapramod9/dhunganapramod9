@@ -10,10 +10,6 @@ I'm a **self-taught full-stack developer** and **software engineer** passionate 
 -  Developing **CompliAI**, an AI-powered code auditor for **HIPAA, GDPR, and SOC 2 compliance**.  
 -  Exploring **LangChain, Llama 3.2, and vector databases** for AI-driven applications.  
 
-## 💡 What I'm Learning & Building  
--  Deep diving into **MERN stack** & **Node.js** for scalable web apps.  
--  Experimenting with **Vue.js** for front-end innovation.  
-- 🏗 Working on **full-stack AI-integrated applications**.  
 
 ## 🔧 Tech Stack  
 - **Frontend:** React, Next.js, Vue.js  
