@@ -1,19 +1,25 @@
 <h1 align="center">Hi, I'm Pramod Dhungana</h1>
-<h3 align="center">Hello, I'm Pramod Dhungana, a passionate developer from Nepal. I am a self-taught full-stack web developer and a software engineer. My zeal for software development lies in conceptualizing ideas and bringing them to life with elegant interfaces. I am meticulous about the experience, architecture, and code quality in everything I create.
+<h3 align="center">Hey, I'm Pramod Dhungana! 👋
 
-Additionally, I am an open-source enthusiast and contributor. I've gained valuable insights from the open-source community, and I appreciate the collaborative and knowledge-sharing aspects of the open-source world...</h3>
+I'm a self-taught full-stack developer and software engineer with a passion for turning ideas into functional, well-designed applications. I thrive on building elegant, scalable solutions, focusing on user experience, architecture, and code quality.
 
-- 🔭 I’m currently working on **Weather Prediction Project**
+🔹 What I'm working on
+Currently developing an NLP model to push the boundaries of AI-driven text analysis.
+Exploring AI-powered code auditing tools (CompliAI) to ensure compliance with industry standards like HIPAA, GDPR, and SOC 2.
+🔹 What I'm learning & building
+Diving deeper into the MERN stack and Node.js for scalable web applications.
+Experimenting with LangChain, Llama 3.2, and vector databases for AI-driven applications.
+Looking to collaborate on Vue.js and full-stack AI-integrated applications.
+🔹 Tech I love
+Frontend: React, Next.js, Vue.js
+Backend: Node.js, Flask, FastAPI
+AI & Data Science: NLP, Hugging Face, Llama 3, Transformers, PyTorch
+DevOps & Cloud: Docker, Firebase, Vercel, Google Cloud
+🔹 Fun fact
+I love playing with dogs 🐶 and geeking out over algorithms & data structures.
 
-- 🌱 I’m currently learning **MERN, Node Js**
-
-- 👯 I’m looking to collaborate on **Vue.Js**
-
-- 💬 Ask me about **Data Structures and Algorithms**
-
-- 📫 How to reach me **dhunganapramod9@gmail.com**
-
-- ⚡ Fun fact **I love to play with dogs.**
+🔹 Let's connect!
+📩 Reach me at dhunganapramod9@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
