@@ -17,10 +17,9 @@ I'm a **self-taught full-stack developer** and **software engineer** passionate 
 - **AI & Data Science:** NLP, Hugging Face, Llama 3, Transformers, PyTorch  
 - **DevOps & Cloud:** Docker, Firebase, Vercel, Google Cloud  
 
-## 🐶 Fun Fact  
-I love **playing with dogs** and geeking out over **algorithms & data structures**.  
 
-## 📬 Let's Connect!  
+
+
 📩 Reach me at **dhunganapramod9@gmail.com**  
 
 
