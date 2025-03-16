@@ -1,25 +1,32 @@
 <h1 align="center">Hi, I'm Pramod Dhungana</h1>
 <h3 align="center">Hey, I'm Pramod Dhungana! 👋
 
-I'm a self-taught full-stack developer and software engineer with a passion for turning ideas into functional, well-designed applications. I thrive on building elegant, scalable solutions, focusing on user experience, architecture, and code quality.
+# 👋 Hey, I'm Pramod Dhungana!  
 
-🔹 What I'm working on
-Currently developing an NLP model to push the boundaries of AI-driven text analysis.
-Exploring AI-powered code auditing tools (CompliAI) to ensure compliance with industry standards like HIPAA, GDPR, and SOC 2.
-🔹 What I'm learning & building
-Diving deeper into the MERN stack and Node.js for scalable web applications.
-Experimenting with LangChain, Llama 3.2, and vector databases for AI-driven applications.
-Looking to collaborate on Vue.js and full-stack AI-integrated applications.
-🔹 Tech I love
-Frontend: React, Next.js, Vue.js
-Backend: Node.js, Flask, FastAPI
-AI & Data Science: NLP, Hugging Face, Llama 3, Transformers, PyTorch
-DevOps & Cloud: Docker, Firebase, Vercel, Google Cloud
-🔹 Fun fact
-I love playing with dogs 🐶 and geeking out over algorithms & data structures.
+I'm a **self-taught full-stack developer** and **software engineer** passionate about building scalable, user-friendly applications. I enjoy working at the intersection of **AI, web development, and open-source**—transforming ideas into reality with clean code and great design.
 
-🔹 Let's connect!
-📩 Reach me at dhunganapramod9@gmail.com
+## 🚀 What I'm working on  
+- 🧠 Building an **NLP model** to enhance AI-driven text analysis.  
+- 🔍 Developing **CompliAI**, an AI-powered code auditor for **HIPAA, GDPR, and SOC 2 compliance**.  
+- 🌱 Exploring **LangChain, Llama 3.2, and vector databases** for AI-driven applications.  
+
+## 💡 What I'm Learning & Building  
+- 📌 Deep diving into **MERN stack** & **Node.js** for scalable web apps.  
+- ⚡ Experimenting with **Vue.js** for front-end innovation.  
+- 🏗️ Working on **full-stack AI-integrated applications**.  
+
+## 🔧 Tech Stack  
+- **Frontend:** React, Next.js, Vue.js  
+- **Backend:** Node.js, Flask, FastAPI  
+- **AI & Data Science:** NLP, Hugging Face, Llama 3, Transformers, PyTorch  
+- **DevOps & Cloud:** Docker, Firebase, Vercel, Google Cloud  
+
+## 🐶 Fun Fact  
+I love **playing with dogs** and geeking out over **algorithms & data structures**.  
+
+## 📬 Let's Connect!  
+📩 Reach me at **dhunganapramod9@gmail.com**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
