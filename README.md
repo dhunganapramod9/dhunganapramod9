@@ -3,7 +3,7 @@
 
 
 
-I'm a **self taught full-stack developer** and **software engineer** passionate about building scalable, user-friendly applications. I enjoy working at the intersection of **AI, web development, and open-source**—transforming ideas into reality with clean code and great design.
+I'm a **self taught full stack developer** and **software engineer** passionate about building scalable, user friendly applications. I enjoy working at the intersection of **AI, web development, and open source**transforming ideas into reality with clean code and great design.
 
 ##  I'm working on  
 -  Building an **NLP model** to enhance AI driven text analysis.  
