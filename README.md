@@ -3,7 +3,7 @@
 </h1>
 
 
-👨🏻‍💻 alias: @dhunganapramod9  
+
 💼 cs student @ queens college | 3x software engineering intern  
 🏆 3x hackathon winner | 🔬 research assistant @ queens college  
 💻 currently building ai + full stack systems  
