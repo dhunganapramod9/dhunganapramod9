@@ -8,11 +8,11 @@
 
 🚀 some stuff i’ve built:
 
-🏥 MedTrain AI: https://github.com/dhunganapramod9/medtrain-AI  
-🔎 Search Engine: https://github.com/dhunganapramod9/search-engine  
-🤝 CodeSahayatri: https://github.com/dhunganapramod9/codesahayatri  
-🌱 EcoAIde: https://github.com/dhunganapramod9/EcoAIde  
-🧭 Career Compass: https://github.com/dhunganapramod9/LAGCC-Hacks  
+🏥 [MedTrain AI](https://github.com/dhunganapramod9/medtrain-AI): ai powered medical training and simulation platform  
+🔎 [Search Engine](https://github.com/dhunganapramod9/search-engine): python based search engine with ranking and indexing  
+🤝 [CodeSahayatri](https://github.com/dhunganapramod9/codesahayatri): ai coding assistant for learning and debugging  
+🌱 [EcoAIde](https://github.com/dhunganapramod9/EcoAIde): sustainability focused ai platform  
+🧭 [Career Compass](https://github.com/dhunganapramod9/LAGCC-Hacks): hackathon winning ai platform for healthcare and college discovery  
 
 🏆 highlights:
 
