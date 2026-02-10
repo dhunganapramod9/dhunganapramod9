@@ -4,7 +4,7 @@
 💻 currently building ai + full stack systems  
 🔎 primarily into backend engineering, ai, and dev tooling  
 📧 reach out: dhunganapramod9 (at) gmail (dot) com  
-🎉 socials: @dhunganapramod9 → linkedin / twitter  
+🎉 socials: @pramoddhungana → linkedin / twitter  
 
 🚀 some stuff i’ve built:
 
