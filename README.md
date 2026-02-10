@@ -4,18 +4,19 @@
 💻 currently building ai + full stack systems  
 🔎 primarily into backend engineering, ai, and dev tooling  
 📧 reach out: dhunganapramod9 (at) gmail (dot) com  
-🎉 socials: @pramodhungana → linkedin / twitter  
+🎉 socials: @dhunganapramod9 → linkedin / twitter  
 
 🚀 some stuff i’ve built:
 
-🧭 career compass: ai platform to help asylum seekers find healthcare and colleges  
-📊 codeinsight: static code analysis and dependency visualization tool  
-🌱 ecoaide: sustainability focused platform  
-🧠 compliAI: ai powered code auditor for hipaa, gdpr, and soc 2 (wip)  
+🏥 MedTrain AI: https://github.com/dhunganapramod9/medtrain-AI  
+🔎 Search Engine: https://github.com/dhunganapramod9/search-engine  
+🤝 CodeSahayatri: https://github.com/dhunganapramod9/codesahayatri  
+🌱 EcoAIde: https://github.com/dhunganapramod9/EcoAIde  
+🧭 Career Compass: https://github.com/dhunganapramod9/LAGCC-Hacks  
 
 🏆 highlights:
 
-🥇 3x hackathon winner across university hackathons  
-💼 3x software engineering intern across startups and programs  
-🔬 research assistant @ queens college (ar vr + biometrics)  
-🚀 built and shipped multiple full stack and ai projects  
+🥇 3x hackathon winner  
+💼 3x software engineering intern  
+🔬 research assistant @ queens college  
+🚀 shipped multiple full stack and ai projects  
