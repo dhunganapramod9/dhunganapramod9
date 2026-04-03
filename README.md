@@ -8,7 +8,7 @@
 🏆 3x hackathon winner | 🔬 research assistant @ queens college  
 💻 currently building ai + full stack systems  
 🔎 primarily into backend engineering, ai, and dev tooling  
-📧 reach out: dhunganapramod9 (at) gmail (dot) com  
+📧 reach out: dhunganapramod98 (at) gmail (dot) com  
 🎉 socials: @pramoddhungana → linkedin / twitter  
 
 🚀 some stuff i’ve built:
